@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@400;700&display=swap');
+
+// Layout
+
+$wd-mobile: 375px;
+$wd-desktop: 1440px;
+
+// Colors
+
+$primary: hsl(25, 97%, 53%);
+$neutral-100: hsl(0, 0%, 100%);
+$neutral-300: hsl(217, 12%, 63%);
+$neutral-500: hsl(216, 12%, 54%);
+$neutral-700: hsl(213, 19%, 18%);
+$neutral-900: hsl(216, 12%, 8%);
+
+// Typography
+
+$fs-paragraph: 0.9375rem;
+$fs-title: 1.75rem;
+
+$ff-general: 'Overpass', sans-serif;
+
+$fw-regular: 400;
+$fw-bold: 700;
+
+// Sizing
+
+$sz-xs: 0.5rem;
+$sz-sm: 1rem;
+$sz-md: 1.5rem;
